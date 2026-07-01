@@ -1,0 +1,23 @@
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
+
+# Build directories
+out/
+build/
+target/
+
+# IntelliJ IDEA (ignore if you don't use IntelliJ)
+.idea/
+*.iml
+
+# Eclipse (ignore if you don't use Eclipse)
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
